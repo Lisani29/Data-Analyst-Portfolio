@@ -12,6 +12,8 @@ A collection of beginner-level data analysis projects using SQL, Excel, Python, 
 - Analyzed sales and profit by region, category, and time
 - Identified top-performing products
 
+### Refer to: Superstore_Sales_Analysis.xlsx
+
 # Project 2- SQL Data Insights with Google BigQuery
 
 This project showcases hands-on SQL analysis using public datasets in **Google BigQuery**.  
