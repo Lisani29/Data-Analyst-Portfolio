@@ -19,7 +19,9 @@ A collection of beginner-level data analysis projects using SQL, Excel, Python, 
 This project showcases hands-on SQL analysis using public datasets in **Google BigQuery**.  
 It includes insights derived from large real-world datasets like **US Baby Names**, **COVID-19 Data**, and **311 Service Requests in New York**.
 
-## 🔧 Tools & Platform
+## Tools & Platform
 - Google BigQuery (cloud-based SQL)
 - SQL (Structured Query Language)
 - Public Datasets from Google Cloud
+
+  ### Refer to: Project-2---SQL-Data-Insights
