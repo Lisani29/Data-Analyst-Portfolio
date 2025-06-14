@@ -4,6 +4,7 @@ A collection of beginner-level data analysis projects using SQL, Excel, Python, 
 # Folder Structure
 Data-Analyst-Portfolio/
 ├── README.md                  ← Overview of all projects
+
 ├── Superstore_Sales_Analaysis.xlsx
 ├── project2_sql_insights/
 │   └── Project 2- Result File
