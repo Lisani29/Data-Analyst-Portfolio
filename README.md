@@ -6,12 +6,21 @@ Data-Analyst-Portfolio/
 ├── README.md                  ← Overview of all projects
 
 ├── Superstore_Sales_Analaysis.xlsx
+
+
 ├── project2_sql_insights/
+
 │   └── Project 2- Result File
+
 │   └── Project 2- Queries and Screenshot.docx
+
 │   └── README.md              ← This project’s detailed info
+
+
 ├── project3_global_superstore/
+
 │   ├── Superstore_Analysis.ipynb
+
 │   └── README.md              ← This project’s detailed info
 
 
