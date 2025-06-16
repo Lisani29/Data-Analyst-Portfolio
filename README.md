@@ -23,6 +23,14 @@ Data-Analyst-Portfolio/
 
 │   └── README.md              ← This project’s detailed info
 
+├── project4_Retail Store Sales Analysis/
+
+│   ├── Dashboard.png
+
+│   ├── Sales_data_sample.csv
+
+│   └── README.md              ← This project’s detailed info
+
 
 # Project 1 – Superstore Sales Analysis
 
@@ -60,5 +68,16 @@ This project involves analyzing the Global Superstore dataset using Python to de
 - Jupyter Notebook
 
   ### Refer to:Project-3-SQL-Data-Insights
+
+   # Project 4- Retail Store Sales Analysis
+
+This project showcases a dynamic Tableau dashboard built using real-world retail sales data. The goal was to analyze performance metrics, identify trends, and uncover actionable business insights across products, regions, and time.
+## Tools & Platform
+-Tableau
+
+  ### Refer to:Project-4-Tableau Dashboard
+
+  
+
 
   
